@@ -1,0 +1,153 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 5.625em;
+  margin: 2.6rem auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #0AA1DD;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  color: #0AA1DD;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #79DAE8;
+}
+
+a {
+  color: #79DAE8;
+}
+
+a:hover{
+  color: #E8F9FD;
+
+}
+
+hr {
+  border-style: dotted none none none;
+  height: 0;
+  width: 3%;
+  border-width: 5px;
+  border-color: gray;
+  margin: 100px auto;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 150px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-container {
+  background-color: #E8F9FD;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer{
+  width: 50%;
+}
+
+.bottom-container {
+  padding-top:50px;
+  padding-bottom: 50px;
+    background-color:#0AA1DD;
+    margin-top: 75px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.profile{
+  width:50%;
+  margin:auto;
+}
+
+.trey {
+  border-radius: 100%;
+  margin-top: 50px;
+}
+
+.automation {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.finance {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.footer-link{
+  margin: 20px;
+  text-decoration:none;
+  font-size: 14px;
+}
+
+.contact-me{
+  margin:100px auto 50px auto;
+  width: 50%;
+}
+
+.my-name{
+  color: white;
+  font-size: 11px;
+  text-align: center;
+  margin-top:50px;
+}
+
+.btn{
+  font-family:Arial;
+  text-decoration: none;
+  background-color: #0AA1DD;
+  border:solid;
+  border-width: 10px;
+  border-color:#0AA1DD;
+  border-radius: 8px;
+  color:white;
+  padding-left: 5px;
+  padding-right:5px;
+}
+
+.btn:hover{
+  font-family:Arial;
+  text-decoration: none;
+  background-color: #79DAE8;
+  border:solid;
+  border-width: 10px;
+  border-color:#79DAE8;
+  border-radius: 8px;
+  color:white;
+  padding-left: 5px;
+  padding-right:5px;
+}
+
+.cheyenne-body{
+  background-color: blue;
+}
